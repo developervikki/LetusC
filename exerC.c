@@ -37,12 +37,13 @@ main(){
     			printf("%d is not a prime number.", n);}
     			break;
 				}
-		
-		 		case 3:
+		case 3:
 					if(n%2==0){
 						printf("Number is Even ")
 					}
 					else{
 					printf("Number is odd")
 					}
+		deafult:
+			printf("Enter any number");
 		}

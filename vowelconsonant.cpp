@@ -10,7 +10,7 @@ int main() {
 
     if (lowercase_vowel || uppercase_vowel)
         printf("%c is a vowel.", c);
-    else
+    else 
         printf("%c is a consonant.", c);
     return 0;
 }

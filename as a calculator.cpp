@@ -20,7 +20,7 @@ main()
 		case 2:
 		    res=n1-n2;
 		break;
-		case 3:
+		case 3: 
 		    res=n1*n2;
 		break;
 		case 4:

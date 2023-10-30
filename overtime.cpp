@@ -5,7 +5,7 @@ main(){
 	while(i<=10){
 		printf("Enter number of hours worked: ");
 		scanf("%d",&hour);
-		if(hour>=40){
+		if(hour>=40){ 
 			otpay=(hour-40)*12;
 		}
 		else

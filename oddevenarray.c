@@ -17,3 +17,4 @@ void main(){
 	printf("Even =%d", even);
 	printf("Odd= %d", odd);
 }
+ 

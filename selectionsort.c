@@ -10,7 +10,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
     for (j = 0; j < n - 1; j++) {
-        min = j;
+        min = j; 
         for (k = j + 1; k < n; k++) {
             if (arr[k] < arr[min]) {
                 min = k;  

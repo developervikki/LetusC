@@ -8,7 +8,7 @@ int main() {
     printf("Enter the Elements of Array: ");
     for (i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
-    }
+    } 
     for (j = 0; j < n - 1; j++) {
         min = j; 
         for (k = j + 1; k < n; k++) {

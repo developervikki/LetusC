@@ -12,7 +12,7 @@ int main()
     scanf("%lf", &b);
     printf("Enter coefficients c: ");
     scanf("%lf", &c);
-
+ 
     discriminant = b * b - 4 * a * c;
 
     // condition for real and different roots

@@ -18,7 +18,7 @@ int main() {
         }
         if (min != j) {
             temp = arr[j];
-            arr[j] = arr[min];
+            arr[j] = arr[min]; 
             arr[min] = temp;
         }
     }

@@ -3,7 +3,7 @@ main(){
 	int i=3;
 	switch(i){
 		case 0:
-			printf("Customers are dicey \n");
+			printf("Customers are dicey \n"); 
 		case 1+0:
 			printf("Markets are pricey \n");
 		case 4/2:

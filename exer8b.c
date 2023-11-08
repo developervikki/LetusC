@@ -2,7 +2,7 @@
 int check(int);
 int main()
 {
-	int i=45,c;
+	int i=45,c; 
 	c=check(i);
 	printf("%d\n",c);
 	return 0;

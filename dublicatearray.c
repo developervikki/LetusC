@@ -4,7 +4,7 @@ int main()
 {
    int arr[100];
    int n,ctr=0;
-   int i, j;
+   int i, j; 
      printf("Input the number of elements to be stored in the array :");
       scanf("%d",&n);
       printf("Input %d elements in the array :\n",n);

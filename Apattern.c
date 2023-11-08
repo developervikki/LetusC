@@ -2,7 +2,7 @@
 int main() {
     int i,j,k,height = 7; 
 
-    for(i = 1; i <= height; i++) {
+    for(i = 1; i <= height; i++) { 
         for (j = 1; j <= height - i; j++) {
             printf(" ");
         }

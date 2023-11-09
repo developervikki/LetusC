@@ -13,7 +13,7 @@ main()
 	printf("Press 2 For F to C\n ");
 	scanf("%d",&ch);
 	switch(ch)
-	{
+	{ 
 		case 1:
 			printf("Enter Temp In C: ");
 		    scanf("%f",&C);

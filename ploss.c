@@ -7,7 +7,7 @@ main(){
 	scanf("%d",&sprice);
 	if(sprice>cprice){
 		int p=sprice-cprice;
-		printf("Profit is %d ", p);
+		printf("Profit is %d ", p); 
 		
 	}
 	else{

@@ -4,4 +4,4 @@ main(){
 	printf("Enter a Integer: ");
 	scanf("%d",&i);
 	printf("%o",i); 
-}
+} 

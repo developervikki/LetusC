@@ -8,7 +8,7 @@ main(){
 	scanf("%d",&g);
 	printf("Enter Blue value from 0 to 255: ");
 	scanf("%d",&b);
-	w=max*r/255,max*g/255,max*b/255;
+	w=max*r/255,max*g/255,max*b/255; 
 	c=(w-r/255)/(w);
 	m=(w-b/255)/w;
 	y=(w-b/255)/(w);

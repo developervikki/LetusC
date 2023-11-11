@@ -12,7 +12,7 @@ main(){
 	else if (c=a^2+b^2)
 	{
 		printf("Right Angle Triangle");
-	}
+	} 
 	else{
 		printf("scalene Triangle");
 	}

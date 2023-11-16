@@ -5,6 +5,6 @@ int main() {
     for (c = 'A'; c <= 'Z'; ++c)
         printf("%c ", c);
     return 0;
-}
+} 
 
  

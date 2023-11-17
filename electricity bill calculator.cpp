@@ -11,7 +11,7 @@ main()
         bill=unit*2.40;
     }
     else if (unit>150 && unit<=300)
-    { 
+    {  
         bill=(150*2.40)+(unit-150)*3.00;
     }
     else

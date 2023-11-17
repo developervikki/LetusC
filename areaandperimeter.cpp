@@ -13,6 +13,6 @@ main(){
 	cc=2*3.14*cr;
 		printf("area of circle %f \n circumference of circle %f\n", ca,cc);
 		return 0;
-
+ 
 	
 }

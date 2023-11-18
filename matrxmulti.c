@@ -23,7 +23,7 @@ main(){
 			c[i][j]=sum;
 			printf("%d \t", c[i][j]);
 			
-			}
+			} 
 		}
 		printf("\n");
 	}

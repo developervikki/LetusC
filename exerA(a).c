@@ -3,7 +3,7 @@ main(){
 	char suite=3;
 	switch(suite){
 		case 1:
-			printf("Diamond\n");
+			printf("Diamond\n"); 
 		case 2:
 			printf("Spade \n");
 		default:

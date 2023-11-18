@@ -7,7 +7,7 @@ main(){
 		case 0:
 			printf("Weeding grass \n");
 		case 1:
-			printf("Mending roof \n");
+			printf("Mending roof \n"); 
 		deafult:
 			printf("Just to survive \n");
 	}

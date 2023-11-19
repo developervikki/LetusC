@@ -13,7 +13,7 @@
             {
               case 0:
               case 1:
-              case 2:
+              case 2: 
               case 3:
                 printf("You've got grace of 5 marks per subject");
                 break;

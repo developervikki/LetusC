@@ -10,6 +10,6 @@ main(){
 	f2=32+(9/5)*c2; 
 	printf("Temperature in Fahrenheit: %f",f2);
 	
-	return 0;
+	return 0; 
 }
  

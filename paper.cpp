@@ -2,7 +2,7 @@
 main(){
 	int height,width, i, n,a,b,c;
 	printf("Enter Height: ");
-	scanf("%d",&height);
+	scanf("%d",&height); 
 	printf("Enter Width: ");
 	scanf("%d",&width);
 	printf("N:");

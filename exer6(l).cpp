@@ -14,7 +14,7 @@ int main()
             {
                 if(x*x*x+y*y*y==i)
                 {
-                  count++;
+                  count++; 
 
                 }
             }

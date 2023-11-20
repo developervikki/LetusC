@@ -10,3 +10,4 @@ main()
 	printf("Years: %d week: %d days: ",years,weeks,days);
 	
 }
+ 

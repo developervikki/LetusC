@@ -6,7 +6,7 @@ main(){
 	printf("Enter breadth of Rectangle: ");
 	scanf("%d",&b);
 	a=l*b;
-	p=2*l+2*b;
+	p=2*l+2*b; 
 	if(a>p){
 		printf("Area of ractangle is grater than Perimeter");
 	}

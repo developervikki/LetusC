@@ -12,7 +12,7 @@ int main()
         if(uc>4)
         {
             printf("Invalid Entry");
-            break;
+            break; 
         }
         cc = 5 - uc;
         printf("Computer picks up the %d match sticks.\n", cc);

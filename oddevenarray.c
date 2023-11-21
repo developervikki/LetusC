@@ -1,4 +1,4 @@
-//WAP to read an array of 10 integers and count total no of even and odd elements.
+ //WAP to read an array of 10 integers and count total no of even and odd elements.
 #include<stdio.h>
 void main(){
 	int n[10],i,even=0,odd=0;

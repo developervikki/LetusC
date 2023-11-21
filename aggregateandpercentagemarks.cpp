@@ -9,4 +9,4 @@ main(){
 	printf("Aggregate marks %d \n" , agg);
 	printf("Percentage marks %f", p);
 	return 0;
-}
+} 

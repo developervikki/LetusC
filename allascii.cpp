@@ -5,3 +5,4 @@ main(){
    printf("%c \t\t %d\n", i, i);
 }
 } 
+ 

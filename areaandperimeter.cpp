@@ -1,7 +1,7 @@
 #include<stdio.h>
 main(){
 	int l,b,ra,rp;
-	float cr,ca,cc;
+	float cr,ca,cc; 
 	printf("Enter length and breadth of rectangle:");
 	scanf("%d%d",&l,&b);
 	ra=l*b;

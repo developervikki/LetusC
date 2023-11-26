@@ -8,7 +8,7 @@ int main() {
     // Prompt the user for their mood and time of day
     printf("How are you feeling (happy/sad/indifferent): ");
     scanf("%s", mood);
-
+ 
     printf("What time of day is it (morning/afternoon/evening): ");
     scanf("%s", timeOfDay);
 

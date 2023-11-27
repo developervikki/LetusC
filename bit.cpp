@@ -4,7 +4,7 @@
 {
 	
 printf("char : %d Bytes\n", sizeof(char));
-printf("short : %d Bytes\n", sizeof(short));
+printf("short : %d Bytes\n", sizeof(short)); 
 printf("int : %d Bytes\n", sizeof(int));
 printf("long : %d Bytes\n\n", sizeof(long));
 printf("signed char : %d Bytes\n", sizeof(signed char));

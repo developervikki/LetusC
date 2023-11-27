@@ -10,6 +10,6 @@ main(){
 		printf("it is lies on y-axis");
 	}
 	else{
-		printf("it is lies on origion");
+		printf("it is lies on origion"); 
 	}
 }

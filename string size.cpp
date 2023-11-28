@@ -10,7 +10,7 @@ int main()
 	for(i=0;text[i]!='\0'; i++)
 	{
 		count++;
-	}
+	} 
 	printf("Length of '%s'=%d",text, count);
 	return 0;
 	

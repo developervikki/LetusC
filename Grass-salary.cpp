@@ -9,6 +9,6 @@ main()
   ra=bs*20/100;
   gs=bs-da-ra;
   printf("Gross Salary of Ramesh is %f",gs);
-  return 0; 
+  return 0;  
 }
   

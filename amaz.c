@@ -2,7 +2,7 @@
 #include <string.h>
 #include<conio.h>
 
-int main() {
+int main() {   
     char mood[20];
     char timeOfDay[20]; 
     // Prompt the user for their mood and time of day

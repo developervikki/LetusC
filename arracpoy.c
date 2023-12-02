@@ -11,3 +11,4 @@ main(){
 	printf("%d",b[i]);
  }
 }
+ 

@@ -3,7 +3,7 @@
 #include<conio.h>
 main()
 {
-	int a;
+	int a; 
 	a=10;
 	do
 	{

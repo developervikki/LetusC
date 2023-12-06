@@ -6,7 +6,7 @@ c=(f-32)*5/9;
 */
 #include<stdio.h>
 main()
-{
+{ 
 	int ch;
 	float C,F;
 	printf("Press 1 For C To F\n ");

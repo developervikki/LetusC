@@ -7,7 +7,7 @@ main()
          s = 0;
 
          while(t!=0){
-             r=t%10;
+             r=t%10; 
              t=t/10;
              s=s+(r*r*r);
          }

@@ -7,7 +7,7 @@ int main() {
         for (j = 1; j <= cols; j++) {
             if (i == 1 || i == rows || j == 1 || j == cols) { 
                 printf("* "); 
-            } else {
+            } else { 
                 printf("  "); 
             }
         } 

@@ -8,7 +8,7 @@ main()
 
          while(t!=0){
              r=t%10; 
-             t=t/10;
+             t=t/10; 
              s=s+(r*r*r);
          }
          if(s==n)

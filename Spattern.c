@@ -9,7 +9,7 @@ int main() {
                 (i < height / 2 + 1 && j == 1) || 
                 (i > height / 2 + 1 && j == height)) { 
                 printf("*");
-            } else {
+            } else { 
                 printf(" ");
             }
         }

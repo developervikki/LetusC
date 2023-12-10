@@ -11,7 +11,7 @@ main()
 	float C,F;
 	printf("Press 1 For C To F\n ");
 	printf("Press 2 For F to C\n ");
-	scanf("%d",&ch);
+	scanf("%d",&ch); 
 	switch(ch) 
 	{  
 		case 1:

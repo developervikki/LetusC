@@ -2,7 +2,7 @@
 main(){
 	int l,b,ra,rp;
 	float cr,ca,cc; 
-	printf("Enter length and breadth of rectangle:");
+	printf("Enter length and breadth of rectangle:"); 
 	scanf("%d%d",&l,&b); 
 	ra=l*b; 
 	rp=2*(l+b);

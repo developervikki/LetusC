@@ -7,7 +7,7 @@ main(){
 		printf("it is lies on x-axis");
 	}
 	else if(y>x){
-		printf("it is lies on y-axis");
+		printf("it is lies on y-axis"); 
 	}
 	else{
 		printf("it is lies on origion"); 

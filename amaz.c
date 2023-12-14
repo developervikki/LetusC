@@ -9,7 +9,7 @@ int main() {
     printf("How are you feeling (happy/sad/indifferent): ");
     scanf("%s", mood); 
  
-    printf("What time of day is it (morning/afternoon/evening): ");
+    printf("What time of day is it (morning/afternoon/evening): "); 
     scanf("%s", timeOfDay);
 
     // Make the decision based on user input

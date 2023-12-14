@@ -4,7 +4,7 @@ main()
 	int n,r,s,t;
     for(n=1;n<=500;n++){
          t=n;
-         s = 0; 
+         s = 0;  
 
          while(t!=0){
              r=t%10; 

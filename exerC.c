@@ -9,7 +9,7 @@ main(){
 	switch(n){
 		case 1:
 			for(f=1; n>0; n--)
-			{
+			{ 
 				f=f*n;
 			}
 			printf("Factorial=%d\n",f);

@@ -8,7 +8,7 @@ int main()
     scanf("%d", &size);
     int array[size];  
  
-    printf("\n Enter %d elements of the array: \n", size);
+    printf("\n Enter %d elements of the array: \n", size); 
  
     for (i = 0; i < size; i++)
     {   

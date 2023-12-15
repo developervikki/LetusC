@@ -8,7 +8,7 @@ main(){
 			}
 			else{
 				printf(" ");
-			}
+			} 
 		}
 		printf("\n");
 	}

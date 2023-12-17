@@ -1,6 +1,6 @@
 #include<stdio.h>
 void display();
-main(){
+main(){ 
 	printf("Learn C \n");
 	display();
 	return 0;

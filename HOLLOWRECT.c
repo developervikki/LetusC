@@ -8,7 +8,7 @@ int main() {
             if (i == 1 || i == rows || j == 1 || j == cols) { 
                 printf("* "); 
             } else { 
-                printf("  ");  
+                printf("  ");   
             }
         }  
         printf("\n");

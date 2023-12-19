@@ -2,7 +2,7 @@
 main(){
 	int num,a;
 	printf("Enter A number: ");
-	scanf("%d",&num);
+	scanf("%d",&num); 
 	
 	if(num<0){
 		a=-(num);

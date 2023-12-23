@@ -6,7 +6,7 @@ main(){
 	for(i=0; i<3; i++){
 		scanf("%d",&a[i]);
 		b[i]=a[i];
-	} 
+	}  
 	for(i=0; i<3; i++){
 	printf("%d",b[i]);
  }

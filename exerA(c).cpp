@@ -5,7 +5,7 @@ main(){
 		case 0:
 			printf("Customers are dicey \n"); 
 		case 1+0:
-			printf("Markets are pricey \n");
+			printf("Markets are pricey \n"); 
 		case 4/2: 
 			printf("Investors are moody \n");
 		case 8%5:

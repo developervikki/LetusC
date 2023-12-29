@@ -7,7 +7,7 @@ int main() {
         for (j = 1; j <= height; j++) {
             if ((i == 1 || i == height || i == height / 2 + 1) ||
                 (i < height / 2 + 1 && j == 1) ||  
-                (i > height / 2 + 1 && j == height)) { 
+                (i > height / 2 + 1 && j == height)) {  
                 printf("*");  
             } else { 
                 printf(" "); 

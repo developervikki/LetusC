@@ -7,7 +7,7 @@ main(){
 	ra=l*b; 
 	rp=2*(l+b);
 	printf("area of rectangle %d \n perimeter of rectangle %d\n", ra,rp); 
-	printf("Enter radius of circle:");
+	printf("Enter radius of circle:"); 
 	scanf("%f",&cr);
 	ca=3.14*cr*cr;
 	cc=2*3.14*cr;

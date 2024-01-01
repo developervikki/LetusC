@@ -5,7 +5,7 @@ main()
 {
 	int n1,n2,res=0,ch;
 	printf("Enter Two Number:");
-	scanf("%d%d",&n1,&n2);
+	scanf("%d%d",&n1,&n2); 
 	printf("Chose For Calculation\n");
 	printf("chose 1 for addition\n ");
 	printf("chose 2 for substraction\n "); 

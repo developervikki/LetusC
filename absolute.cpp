@@ -4,7 +4,7 @@ main(){
 	printf("Enter A number: ");
 	scanf("%d",&num); 
 	
-	if(num<0){
+	if(num<0){ 
 		a=-(num); 
 		printf("Absolute value is %d",a); 
 	}

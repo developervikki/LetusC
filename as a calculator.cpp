@@ -1,7 +1,7 @@
 //Write a Program to make a simple calculator based on user choice
 #include<stdio.h>
 #include<conio.h>
-main()
+main() 
 {
 	int n1,n2,res=0,ch;
 	printf("Enter Two Number:");

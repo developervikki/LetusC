@@ -3,5 +3,5 @@ main(){
 	int i;
 	printf("Enter a Integer: ");
 	scanf("%d",&i);
-	printf("%o",i); 
+	printf("%o",i);  
 } 

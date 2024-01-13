@@ -14,7 +14,7 @@ void main(){
 			sum=sum+a[i][j];
 		} 
 		printf("\n");
-	}
+	} 
 	printf("sum %d", sum);
 }
   

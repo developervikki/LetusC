@@ -10,7 +10,7 @@ int main() {
                 (i > height / 2 + 1 && j == height)) {  
                 printf("*");  
             } else { 
-                printf(" "); 
+                printf(" ");  
             }
         } 
         printf("\n");

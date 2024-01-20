@@ -5,7 +5,7 @@ main(){
 	scanf("%d%d",&x,&y);
 	if(x>y){
 		printf("it is lies on x-axis");
-	}
+	} 
 	else if(y>x){
 		printf("it is lies on y-axis"); 
 	}

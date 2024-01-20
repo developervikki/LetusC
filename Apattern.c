@@ -8,7 +8,7 @@ int main() {
         }
   
         for (k = 1; k <= (2 * i) - 1; k++) {
-            if (k == 1 || k == (2 * i) - 1 || i == height / 2 + 1) {
+            if (k == 1 || k == (2 * i) - 1 || i == height / 2 + 1) { 
                 printf("*");
             } else {
                 printf(" ");

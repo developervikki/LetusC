@@ -4,7 +4,7 @@ main(){
 	float cr,ca,cc; 
 	printf("Enter length and breadth of rectangle:");  
 	scanf("%d%d",&l,&b); 
-	ra=l*b; 
+	ra=l*b;  
 	rp=2*(l+b);
 	printf("area of rectangle %d \n perimeter of rectangle %d\n", ra,rp); 
 	printf("Enter radius of circle:"); 

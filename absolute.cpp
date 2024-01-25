@@ -9,7 +9,7 @@ main(){
 		printf("Absolute value is %d",a);  
 	}
 	else
-	{
+	{ 
 		
 		printf("Absolute value is  %d",num);
 	}

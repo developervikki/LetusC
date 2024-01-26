@@ -15,3 +15,4 @@ main()
              printf("\t%d\n ",n);
     }
 }
+ 		

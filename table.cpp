@@ -7,7 +7,7 @@ main()
  printf("Table \n");
     printf("Enter A number: ");
      scanf("%d",&number); 
-	  for (int i = 1; i <= 10; i++)
+	  for (int i = 1; i <= 10; i++) 
 	  
 	{
       table=i*number;

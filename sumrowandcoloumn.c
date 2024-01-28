@@ -14,6 +14,6 @@ main(){
 			sr=sr+a[i][j];
 			sc=sc+a[j][i];
 		}
-		printf("SR= %d, SC=%d\n",sr,sc);
+		printf("SR= %d, SC=%d\n",sr,sc); 
 	}
 }

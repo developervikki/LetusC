@@ -7,7 +7,7 @@ main()
 	
 	float p,n,r,si;
 	printf("Principal Value: ");
-	scanf("%f", &p);
+	scanf("%f", &p); 
 	printf("Time: ");
 	scanf("%f", &n);
 	printf("Rate Value: ");

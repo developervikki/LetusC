@@ -10,7 +10,7 @@ main()
     printf("Enter points (x2, y2)\n");   
     scanf("%f%f", &x2, &y2);  
   
-    printf("Enter points (x3, y3)\n");   
+    printf("Enter points (x3, y3)\n");    
     scanf("%f%f", &x3, &y3);  
   
     m = (y2 - y1) / (x2 - x1);  

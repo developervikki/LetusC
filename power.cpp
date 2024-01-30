@@ -4,7 +4,7 @@ main(){
 	int y,i;
 	printf("\nEnter Two Number: ");
 	scanf("%f%d",&x,&y);
-	power=i=1;
+	power=i=1; 
 	while(i<=y){
 		power=power*x;
 		i++;

@@ -18,7 +18,7 @@ main()
 			printf("Enter Temp In C: ");
 		    scanf("%f",&C);
 		    F=(9*C)/5+32; 
-		    printf("Temp In F=%.2\n",F);
+		    printf("Temp In F=%.2\n",F); 
 		break;
 		case 2:
 			printf("Enter Temp In F: ");

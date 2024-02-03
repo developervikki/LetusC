@@ -12,6 +12,6 @@ main(){
 	{ 
 		
 		printf("Absolute value is  %d",num);
-	}
+	} 
 }
  

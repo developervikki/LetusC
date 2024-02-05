@@ -2,7 +2,7 @@
 void display();
 main(){ 
 	printf("Learn C \n"); 
-	display(); 
+	display();  
 	return 0;
 } 
 void display(){

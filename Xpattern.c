@@ -6,7 +6,7 @@ main(){
 			if(i==j || i+j==n+1){ 
 				printf("X");   
 			}  
-			else{
+			else{ 
 				printf(" ");
 			}   
 		}

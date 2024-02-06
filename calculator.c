@@ -13,7 +13,7 @@ main()
 	printf("chose 4 for Division\n ");
 	scanf("%d",&ch);
 	switch(ch)
-	{
+	{ 
 		case 1:
 		    res=n1+n2;
 		break;

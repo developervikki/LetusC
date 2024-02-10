@@ -4,7 +4,7 @@ main()
   int bs; 
   float da,ra,gs;
   printf("Enter Ramesh's Basic Salary : ");   
-  scanf("%d",&bs);
+  scanf("%d",&bs); 
   da=bs*40/100;
   ra=bs*20/100;  
   gs=bs-da-ra;

@@ -5,7 +5,7 @@ main()
 { 
 	int a,b;
 	printf("Enter two number:");
-	scanf("%d%d",&a,&b);
+	scanf("%d%d",&a,&b); 
 	swap(&a,&b);//calling of function
 	printf("a=%d\nb=%d\n",a,b);
 	

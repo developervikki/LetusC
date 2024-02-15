@@ -7,7 +7,7 @@ int main()
 {
     int i,n;
  
-    printf("Enter the value of N: ");
+    printf("Enter the value of N: "); 
     scanf("%d",&n);
  
     printf("No     Square   Cube    Square Root\n",n);

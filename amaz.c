@@ -12,7 +12,7 @@ int main() {
     printf("What time of day is it (morning/afternoon/evening): "); 
     scanf("%s", timeOfDay);
 
-    // Make the decision based on user input
+    // Make the decision based on user input 
     if (strcmp(mood, "happy") == 0) {
         if (strcmp(timeOfDay, "morning") == 0) {
             printf("You should have a hearty breakfast.\n");

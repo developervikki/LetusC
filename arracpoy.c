@@ -3,7 +3,7 @@
 main(){
 	int a[3],b[3],i;
 	printf("Enter the Elements: ");
-	for(i=0; i<3; i++){
+	for(i=0; i<3; i++){ 
 		scanf("%d",&a[i]);
 		b[i]=a[i];
 	}   

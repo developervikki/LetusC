@@ -2,7 +2,7 @@
 /*for c to f;
 f=(9*c)/5+32
 for f to c:
-c=(f-32)*5/9;
+c=(f-32)*5/9; 
 */
 #include<stdio.h>
 main()

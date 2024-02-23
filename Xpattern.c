@@ -7,7 +7,7 @@ main(){
 				printf("X");   
 			}  
 			else{  
-				printf(" ");
+				printf(" "); 
 			}   
 		}
 		printf("\n");

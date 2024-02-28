@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 { 
-  int bs; 
+  int bs;  
   float da,ra,gs;
   printf("Enter Ramesh's Basic Salary : ");   
   scanf("%d",&bs); 

@@ -8,5 +8,5 @@ main(){
 	float p=agg*100/500; 
 	printf("Aggregate marks %d \n" , agg); 
 	printf("Percentage marks %f", p); 
-	return 0;
+	return 0; 
 } 

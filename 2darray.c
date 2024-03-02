@@ -9,7 +9,7 @@ void main(){
 		} 
 	}   
 	for(i=0; i<2; i++){
-		for(j=0; j<3; j++){
+		for(j=0; j<3; j++){ 
 			printf("%d \t",a[i][j]);
 			sum=sum+a[i][j];
 		} 

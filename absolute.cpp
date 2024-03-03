@@ -6,7 +6,7 @@ main(){
 	
 	if(num<0){ 
 		a=-(num);    
-		printf("Absolute value is %d",a);  
+		printf("Absolute value is %d",a);   
 	}
 	else
 	{ 

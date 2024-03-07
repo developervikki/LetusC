@@ -7,7 +7,7 @@ main(){
 	{
 		case (temp<=20):
 			printf("Oooooh! Damn Cool ! \n");
-		case(temp>20 && temp<30):
+		case(temp>20 && temp<30): 
 			printf("Rain rain here again \n");
 		case(temp>30 && temp<=40):
 			printf("Wish I am on Everest \n");

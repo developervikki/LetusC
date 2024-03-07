@@ -2,7 +2,7 @@
 float circle (int);
 int main(){
 	float area;
-	int radius=1;
+	int radius=1; 
 	area=circle(radius);
 	printf("%f\n",area);
 	return 0;

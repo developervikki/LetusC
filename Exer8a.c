@@ -5,7 +5,7 @@ main(){
 	display();   
 	return 0;
 }  
-void display(){
+void display(){ 
 	printf("Followed by C++, C#, and java \n");
 }
      

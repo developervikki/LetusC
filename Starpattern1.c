@@ -11,7 +11,7 @@ main(){
 		for(col=1;col<=row; col++){ 
 			printf("* \n");  
 			
-		}
+		} 
 	} 
 }
  

@@ -8,7 +8,7 @@ int main() {
             if ((i == 1 || i == height || i == height / 2 + 1) ||  
                 (i < height / 2 + 1 && j == 1) ||   
                 (i > height / 2 + 1 && j == height)) {  
-                printf("*");     
+                printf("*");      
             } else { 
                 printf(" ");  
             } 

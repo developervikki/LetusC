@@ -11,4 +11,4 @@ main()
   printf("Gross Salary of Ramesh is %f",gs);   
   return 0;    
 }
-    
+     

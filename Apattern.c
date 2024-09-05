@@ -1,5 +1,5 @@
      #include <stdio.h>    
-int main() {    
+int main() {     
     int i,j,k,height = 7;  
   
     for(i = 1; i <= height; i++) { 

@@ -1,5 +1,5 @@
       // pROGRAM TO PRINT 2D ARRAY & CALCULATE SUM
-#include<stdio.h>          
+#include<stdio.h>           
 void main(){      
 	int a[2][3],i,j,sum=0;
 	printf("Enter the elements: ");  

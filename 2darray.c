@@ -1,6 +1,6 @@
       // pROGRAM TO PRINT 2D ARRAY & CALCULATE SUM
 #include<stdio.h>           
-void main(){      
+void main(){       
 	int a[2][3],i,j,sum=0;
 	printf("Enter the elements: ");  
 	for(i=0; i<2; i++){       
